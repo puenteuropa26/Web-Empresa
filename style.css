@@ -42,3 +42,18 @@ header {
     font-weight: bold;
     font-size: 15px;
 }
+
+main {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.cafe {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
