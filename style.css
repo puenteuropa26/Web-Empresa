@@ -57,3 +57,12 @@ main {
     height: auto;
     border-radius: 5px;
 }
+
+footer {
+    background-color: #111111;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+    font-size: 14px;
+}
